@@ -14,6 +14,8 @@
 		E536383B1F01591F007DF893 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E53638391F01591F007DF893 /* LaunchScreen.storyboard */; };
 		E53638461F01591F007DF893 /* Divvy_BikesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E53638451F01591F007DF893 /* Divvy_BikesTests.swift */; };
 		E53638511F01591F007DF893 /* Divvy_BikesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E53638501F01591F007DF893 /* Divvy_BikesUITests.swift */; };
+		E536385F1F015BCD007DF893 /* SwiftyJSON-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536385E1F015BCD007DF893 /* SwiftyJSON-1.swift */; };
+		E53638631F016E5F007DF893 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E53638621F016E5F007DF893 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		E536384C1F01591F007DF893 /* Divvy BikesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Divvy BikesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E53638501F01591F007DF893 /* Divvy_BikesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Divvy_BikesUITests.swift; sourceTree = "<group>"; };
 		E53638521F01591F007DF893 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E536385E1F015BCD007DF893 /* SwiftyJSON-1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "SwiftyJSON-1.swift"; path = "../../../../../Downloads/SwiftyJSON-1.swift"; sourceTree = "<group>"; };
+		E53638621F016E5F007DF893 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				E53638301F01591F007DF893 /* AppDelegate.swift */,
 				E53638321F01591F007DF893 /* ViewController.swift */,
 				E53638341F01591F007DF893 /* Main.storyboard */,
+				E53638621F016E5F007DF893 /* DetailViewController.swift */,
+				E536385E1F015BCD007DF893 /* SwiftyJSON-1.swift */,
 				E53638371F01591F007DF893 /* Assets.xcassets */,
 				E53638391F01591F007DF893 /* LaunchScreen.storyboard */,
 				E536383C1F01591F007DF893 /* Info.plist */,
@@ -261,6 +267,8 @@
 			files = (
 				E53638331F01591F007DF893 /* ViewController.swift in Sources */,
 				E53638311F01591F007DF893 /* AppDelegate.swift in Sources */,
+				E536385F1F015BCD007DF893 /* SwiftyJSON-1.swift in Sources */,
+				E53638631F016E5F007DF893 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
